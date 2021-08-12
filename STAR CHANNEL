@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="LOW CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",17 |  Star Channel (L)
+http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3855
+#EXTINF:-1 group-title="CINE UHD" tvg-logo="http://ultraxtvextreme.com:8000/images/326af23f71de8af1291efd0a4c2b2020.png",28 | STAR CHANNEL UHD
+http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/7973
+#EXTINF:-1 group-title="CINE STD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",51 | STAR CHANNEL
+http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/138266
